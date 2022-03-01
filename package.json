@@ -1,0 +1,17 @@
+{
+  "name": "nft-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^17.0.21",
+    "dotenv": "^16.0.0",
+    "eslint": "^8.10.0",
+    "fs-extra": "^10.0.1",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.6.2"
+  },
+  "scripts": {
+    "start": "ts-node index.ts"
+  }
+}
